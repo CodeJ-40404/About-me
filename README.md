@@ -1,4 +1,4 @@
-# About-me
+<img width="774" height="272" alt="image" src="https://github.com/user-attachments/assets/2dbb6f12-7d09-4af9-a8d0-c45b8506babb" /># About-me
 hi, i'm codej-40404
 
 
@@ -21,4 +21,8 @@ hi, i'm codej-40404
 ---
 [![](https://visitcount.itsvg.in/api?id=hexarch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+### 🍻MY FRIENDS
+[zisezicai](https://github.com/zisezicai)
+[weigao](https://github.com/weigao-china)
+
