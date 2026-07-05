@@ -1,5 +1,5 @@
-<img width="774" height="272" alt="image" src="https://github.com/user-attachments/assets/2dbb6f12-7d09-4af9-a8d0-c45b8506babb" /># About-me
-hi, i'm codej-40404
+# About-me
+hi, i'm codej-40404, a teen developer + [OIer](https://codeforces.com/profile/codej_40404)
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@ hi, i'm codej-40404
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hexarch&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CodeJ-40404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 ### 🍻MY FRIENDS
