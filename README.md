@@ -17,8 +17,7 @@ hi, i'm codej-40404, a teen developer + [OIer](https://codeforces.com/profile/co
 
 ---
 ### 📃 Let's work together!
-If you are interseted in working with me, tell me by [Codeforces](https://codeforces.com/profile/codej_40404) or [Luogu](https://www.luogu.com.cn/user/2178551), please tell me your username and what do you wanna work with me
-~~Sorry but I don't really wanna show my email~~
+If you are interseted in working with me, tell me by `dikebuzai123@163.com`, [Codeforces](https://codeforces.com/profile/codej_40404) or [Luogu](https://www.luogu.com.cn/user/2178551), please tell me your username and what do you wanna work with me
 
 ---
 ### 🍻MY FRIENDS
