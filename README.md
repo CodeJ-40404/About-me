@@ -16,8 +16,8 @@ hi, i'm codej-40404, a teen developer + [OIer](https://codeforces.com/profile/co
 [![](https://visitcount.itsvg.in/api?id=CodeJ-40404&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-### Let's work together!
-If you are interseted in working with me, tell me on [codeforces](https://codeforces.com/profile/codej_40404) or [Luogu](https://www.luogu.com.cn/user/2178551)
+### 📃 Let's work together!
+If you are interseted in working with me, tell me by [Codeforces](https://codeforces.com/profile/codej_40404) or [Luogu](https://www.luogu.com.cn/user/2178551)  
 ~~Sorry but I don't really wanna show my email~~
 
 ---
